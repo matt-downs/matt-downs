@@ -14,3 +14,7 @@
 ## 💡 Tagline
 
 I love making ideas come to life.
+
+---
+
+*This profile summary was written by GitHub Copilot GPT-4.1.*
